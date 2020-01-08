@@ -52,9 +52,3 @@ You are free to use Cliche as long as you do not modify it.
 
 I created this application to reduce the manual work that people have to do to create output files. 
 
-## SUPPORT DEVELOPER
-
-If you can afford and appreciate this application ,support me via PayTm:
-
-+91 8130973617
-
